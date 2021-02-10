@@ -1,4 +1,4 @@
-def primary():
+def main():
   
   print("Keep it logically awesome.")
   
@@ -9,7 +9,7 @@ def primary():
   print(quotes)
 
 if __name__== "__main__":
-  primary()
-
+  main()
+python3 get-quote.py
            
 
