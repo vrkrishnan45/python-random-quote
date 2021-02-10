@@ -2,12 +2,14 @@ def primary():
   
   print("Keep it logically awesome.")
   
-  #f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.close()
+  f = open("quotes[0])
+  quotes = f.readlines()
+  f.close()
 
-  #print(quotes)
+  print(quotes)
 
 if __name__== "__main__":
   primary()
-python3 get-quote.py
+
+           
+
